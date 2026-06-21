@@ -2,9 +2,9 @@
   "projects": [
     {
       "id": "pce418c6b993",
-      "runner": "ubuntu-latest",
+      "runner": "windows-latest",
       "secret_suffix": "PCE418C6B993",
-      "rev": "194b52751f767a8d"
+      "rev": "c3086f82373f7563"
     }
   ]
 }
